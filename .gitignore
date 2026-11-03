@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+artifacts/fashionmnist_latents.pt
+.ipynb_checkpoints/

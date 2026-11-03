@@ -1,0 +1,15 @@
+torch>=2.7.0
+torchvision
+diffusers
+transformers
+accelerate
+matplotlib
+tqdm
+numpy
+pillow
+huggingface_hub
+safetensors
+jupyter
+ipykernel
+nbformat
+nbclient

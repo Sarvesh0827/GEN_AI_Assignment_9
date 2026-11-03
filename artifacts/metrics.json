@@ -1,0 +1,23 @@
+{
+  "SID4": 9357,
+  "SEED": 9357,
+  "SLICE": 357,
+  "HP_ID": 3,
+  "CLS_A": 7,
+  "CLS_B": 6,
+  "device": "cuda",
+  "started": "2026-10-28 21:15:48 UTC",
+  "vae_config_scale": 0.18215,
+  "vae_scale_used": 0.18215,
+  "recon_mse_128_rgb": 0.0008127448381856084,
+  "recon_mse_28_gray": 0.0010126848937943578,
+  "latent_mean": -0.04511678218841553,
+  "latent_std": 1.2602851390838623,
+  "n_train": 60000,
+  "unet_params": 14828484,
+  "train_seconds": 426.0052638053894,
+  "final_train_loss": 0.10330618784213677,
+  "first_epoch_loss": 0.5005943385454324,
+  "sample_seconds": 11.619556427001953,
+  "finished": "2026-10-28 21:25:51 UTC"
+}
